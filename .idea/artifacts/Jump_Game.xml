@@ -1,0 +1,20 @@
+<component name="ArtifactManager">
+  <artifact type="javafx" name="Jump Game">
+    <output-path>$PROJECT_DIR$/out/artifacts/Jump_Game</output-path>
+    <properties id="javafx-properties">
+      <options>
+        <option name="appClass" value="JumpGame.Main" />
+        <option name="description" value="" />
+        <option name="htmlPlaceholderId" value="" />
+        <option name="title" value="" />
+        <option name="vendor" value="" />
+        <option name="version" value="" />
+      </options>
+    </properties>
+    <root id="root">
+      <element id="archive" name="JadeJump.jar">
+        <element id="module-output" name="JadeJump" />
+      </element>
+    </root>
+  </artifact>
+</component>
