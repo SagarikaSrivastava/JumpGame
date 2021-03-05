@@ -1,6 +1,8 @@
 # JumpGame
 Run and Jump game made using JavaFX
 
+IMPORTANT: THIS CODE REQUIRES JAVAFX LIBRARY TO RUN
+
 ---------- IMPLEMENTATION ----------
 The code for this game is written in Java 8 to create an application using JavaFX, using Intellij Idea 2017.2.4.
 Time delays were implemented using java.util.Timer and java.util.TimerTask and java.util.Date.
