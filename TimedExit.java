@@ -1,4 +1,3 @@
-package JumpGame;
 
 import java.util.Date;
 import java.util.Timer;
