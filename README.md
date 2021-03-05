@@ -6,9 +6,9 @@ The code for this game is written in Java 8 to create an application using JavaF
 Time delays were implemented using java.util.Timer and java.util.TimerTask and java.util.Date.
 The game's level implementation is using a 12 X 60 matrix, with each matrix element corresponding to a 60 x 60 pixels block.
 All elements of the level as created using javafx.scene.shape.Rectangle and are as follows:
->user character is a 40 x 40 pixel green Rectangle
->platforms are dark blue Rectangles(60X60 pixels) which are concatenated together.
->obstacles are orange Rectangles(60x60 pixels)
+-user character is a 40 x 40 pixel green Rectangle
+-platforms are dark blue Rectangles(60X60 pixels) which are concatenated together.
+-obstacles are orange Rectangles(60x60 pixels)
 
 ---------- GAME DESCRIPTION ----------
 The game takes 3 user inputs: Left Arrow Key to move back, Spacebar to jump and Right Arrow Key to go forward.
